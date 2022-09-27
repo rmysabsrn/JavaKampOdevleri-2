@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev02.iml" filepath="$PROJECT_DIR$/Odev02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev02.1/Odev02.1.iml" filepath="$PROJECT_DIR$/Odev02.1/Odev02.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev02.2/Odev02.2.iml" filepath="$PROJECT_DIR$/Odev02.2/Odev02.2.iml" />
